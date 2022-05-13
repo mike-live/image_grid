@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76435185"
+     inkscape:cx="-147.83767"
+     inkscape:cy="454.63356"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2087" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2351"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2349" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2081" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2075" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2087-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.562185,-61.784754)">
+    <rect
+       style="fill:#c92f3a;stroke-width:0.688247"
+       id="rect954"
+       width="25.806026"
+       height="25.806026"
+       x="82.310364"
+       y="84.344994"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#c92f3a;stroke-width:0.688247"
+       id="rect954-3"
+       width="25.806026"
+       height="25.806026"
+       x="118.06658"
+       y="84.344994"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#c92f3a;stroke-width:0.688247"
+       id="rect954-35"
+       width="25.806026"
+       height="25.806026"
+       x="153.8228"
+       y="84.344994"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2f86c9;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-9"
+       width="25.806026"
+       height="25.806026"
+       x="82.310364"
+       y="120.53546"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2f86c9;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-3-4"
+       width="25.806026"
+       height="25.806026"
+       x="118.06658"
+       y="120.53546"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2f86c9;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-35-0"
+       width="25.806026"
+       height="25.806026"
+       x="153.8228"
+       y="120.53546"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2fc93f;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-0"
+       width="25.806026"
+       height="25.806026"
+       x="82.310364"
+       y="156.72594"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2fc93f;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-3-6"
+       width="25.806026"
+       height="25.806026"
+       x="118.06658"
+       y="156.72594"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#2fc93f;fill-opacity:1;stroke-width:0.688247"
+       id="rect954-35-1"
+       width="25.806026"
+       height="25.806026"
+       x="153.8228"
+       y="156.72594"
+       rx="6.4515066"
+       ry="6.4515066"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#828282;stroke-width:7.74181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="M 66.100095,71.613451 H 181.53667"
+       id="path1990"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#828282;stroke-width:7.80561;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-0)"
+       d="M 69.471887,68.261804 V 183.24139"
+       id="path1990-7"
+       inkscape:export-filename="D:\PC\My projects\image_grid"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+</svg>

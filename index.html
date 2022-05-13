@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<style>    
+	html, body {
+		overflow-y:visible;
+	}
+</style>
+<head>
+    <meta charset="utf-8" />
+    <title>Smart image grid</title>
+
+	<link rel="stylesheet" href="semantic-ui-offline/semantic.min.css" />
+	<script src="jquery.min.js" type="text/javascript"></script>
+	<script src="semantic-ui-offline/components/accordion.js"></script>
+	
+	<!--<link rel="stylesheet" href="range/range.css" />
+	<script src="range/range.js" type="text/javascript"></script>-->
+	
+	<link rel="stylesheet" href="slider/slider.css" />
+	<script src="slider/slider.js" type="text/javascript"></script>
+
+</head>
+<body>
+
+<div class="ui accordion">
+<div class="active title">
+    <i class="dropdown icon"></i>
+    Menu
+  </div>
+  <div class = "active content">
+<div class="ui grid">
+		<div class="two wide column">
+			<div class="ui fluid labeled input" style = "display: flex; align-items: center">
+				<div class="ui label">
+					Zoom:
+				</div>
+				<div class="ui slider" id="zoom"></div>
+			</div>
+			
+				<!--<div class = "ui large label">Zoom:
+			<div class="ui fluid detail"><div class="ui range"></div></div>
+			</div>-->
+		</div>
+		<div class="six wide column">
+			<div class="ui labeled blue small button" id="choose_dir">
+				<div class="ui blue button" id="choose_dir">
+					Choose Directory
+				</div>
+				<div class = "ui label" id="file_path">
+
+				</div>
+			</div>
+		</div>
+		<div class="three wide column">
+			<div class = "ui fluid labeled input">
+				<div class="ui label">
+					Status:
+				</div>
+				<div class="ui label"  id = "status">
+				</div>
+			</div>
+		</div>
+		<div class="two wide column">
+			<div class="ui fluid labeled input" style = "display: flex; align-items: center">
+				<div class="ui label">
+					Crop-x:
+				</div>
+				<div class="ui range slider" id="crop_x"></div>
+			</div>
+		</div>
+		
+		<div class="eight wide column">
+			<div class = "ui fluid labeled input">
+				<div class="ui label">
+					RegExp:
+				</div>
+				<input class="ui input" id = "regexp_str"/>
+			</div>
+		</div>
+		<div class="eight wide column">
+			<div class="ui blue button" id="make_table">
+				Make table
+			</div>
+		</div>
+</div>
+  </div>
+</div>
+
+<div class = "ui table">
+  <!--<table class="ui single line celled unstackable bottom attached table" style="display: block;overflow-x:scroll;overflow-y:scroll;" id="img_table">-->
+  <table class="ui unstackable table" style="display: block;overflow-x:scroll;" id="img_table">
+    
+  </table>
+</div>
+
+<script src="grid_app.js" type="text/javascript"></script>
+<script src="app.js" type="text/javascript"></script>
+
+</body>
+</html>

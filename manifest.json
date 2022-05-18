@@ -1,6 +1,6 @@
 {
   "name": "Smart image grid",
-  "version": "0.1",
+  "version": "0.1.1.1",
   "manifest_version": 2,
   "minimum_chrome_version": "31",
   "icons": {
